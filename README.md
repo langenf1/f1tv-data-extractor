@@ -7,7 +7,10 @@ These scripts take sector/driver screenshots from the F1TV Data Channel recordin
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and stores everything in a pickled dictionary. 
 Seaborn is then used to visualize the data. This allows me to easily create sector distribution and sector comparison graphics.
 
-At the moment only Windows 10 is supported, Linux support is currently not planned.
+* At the moment only Windows 10 is supported.
+
+* At the moment this project has been abandoned due to better ways of accessing this data and more. See [this](https://github.com/theOehrly/Fast-F1) repository for more information.
+
 
 #### Prerequisites
 * `Python` (~v3.9)
