@@ -1,0 +1,145 @@
+{
+  "resolution": 1080,
+  "race_gathering": {
+    "start_offset_min": 5,
+    "end_offset_min": 1,
+    "step": 30
+  },
+  "race_processing": {
+    "drivers_on_grid": 20
+  },
+  "race_visualization": {
+    "excluded_drivers": [
+      "LEC"
+    ],
+    "distribution_offset": [
+      18,
+      33,
+      19
+    ],
+    "min_times": [
+      19,
+      19,
+      19
+    ],
+    "max_times": [
+      30,
+      40,
+      30
+    ]
+  },
+  "drivers": [
+    {
+      "name": "HAM",
+      "team": "Mercedes"
+    },
+    {
+      "name": "VER",
+      "team": "Red Bull"
+    },
+    {
+      "name": "BOT",
+      "team": "Mercedes"
+    },
+    {
+      "name": "NOR",
+      "team": "McLaren"
+    },
+    {
+      "name": "PER",
+      "team": "Red Bull"
+    },
+    {
+      "name": "LEC",
+      "team": "Ferrari"
+    },
+    {
+      "name": "RIC",
+      "team": "McLaren"
+    },
+    {
+      "name": "SAI",
+      "team": "Ferrari"
+    },
+    {
+      "name": "TSU",
+      "team": "Alpha Tauri"
+    },
+    {
+      "name": "STR",
+      "team": "Aston Martin"
+    },
+    {
+      "name": "RAI",
+      "team": "Alfa Romeo"
+    },
+    {
+      "name": "GIO",
+      "team": "Alfa Romeo"
+    },
+    {
+      "name": "OCO",
+      "team": "Alpine"
+    },
+    {
+      "name": "RUS",
+      "team": "Williams"
+    },
+    {
+      "name": "VET",
+      "team": "Aston Martin"
+    },
+    {
+      "name": "MSC",
+      "team": "Haas"
+    },
+    {
+      "name": "GAS",
+      "team": "Alpha Tauri"
+    },
+    {
+      "name": "LAT",
+      "team": "Williams"
+    },
+    {
+      "name": "ALO",
+      "team": "Alpine"
+    },
+    {
+      "name": "MAZ",
+      "team": "Haas"
+    }
+  ],
+  "teams": [
+    {
+      "Mercedes": "#00D2BE"
+    },
+    {
+      "Ferrari": "#DC0000"
+    },
+    {
+      "Red Bull": "#0600EF"
+    },
+    {
+      "Alpine": "#0090FF"
+    },
+    {
+      "Haas": "#999999"
+    },
+    {
+      "Aston Martin": "#006F62"
+    },
+    {
+      "Alpha Tauri": "#2B4562"
+    },
+    {
+      "McLaren": "#FF8700"
+    },
+    {
+      "Alfa Romeo": "#900000"
+    },
+    {
+      "Williams": "#005AFF"
+    }
+  ]
+}
