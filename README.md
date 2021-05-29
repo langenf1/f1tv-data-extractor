@@ -19,3 +19,7 @@ At the moment only Windows 10 is supported, Linux support is currently not plann
 ```bash
 $ pip install -r requirements.txt
 ```
+
+#### Example Output
+
+![Example 1](https://i.imgur.com/15wjxiN.png)
